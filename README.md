@@ -1,6 +1,6 @@
 # real-estate-price-estimation
 
-![](Screenshot (21).png)
+![](./Screenshot (21).png)
 
 Real Estate Price Prediction Project using Machine Learning By UTKARSH
 
